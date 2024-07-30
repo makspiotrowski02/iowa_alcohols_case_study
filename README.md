@@ -3,7 +3,7 @@
 ![Title](/Images/Title.jpg)
 ## Project Overview
 
-Welcome to the case study documentation for the Vodka Sales and Marketing Analysis. This analysis focuses on identifying optimal store locations and times for marketing a new vodka product based on historical sales data.
+Welcome to the case study documentation for the Vodka Sales and Marketing Analysis. This analysis focuses on identifying optimal store locations and times for marketing a new american vodka product based on historical sales data.
 
 ## Useful Links
 
@@ -44,7 +44,7 @@ Welcome to the case study documentation for the Vodka Sales and Marketing Analys
 
 - **Filled map**: 
     
-    I really wanted to use the filled map visual in Power BI for state-level visualization, but it didn’t turn out as expected. The customization options for this visual were quite limited, preventing me from achieving the desired appearance. Additionally, the visual was laggy, and the zoom steps were too big, making it difficult to adjust the view so that a state perfectly filled the whole page. Another limitation was the absence of an option to use a color range to illustrate differences between counties. Consequently, I had to calculate the gradations in Excel and then manually assign a color from the scale to each step.
+    I really wanted to use the filled map visual in Power BI for state-level visualization, but it didn’t turn out as expected. The customization options for this visual were quite limited, preventing me from achieving the desired appearance. Additionally, the visual was laggy, and the zoom steps were too big, making it difficult to adjust the view so that a state perfectly filled the whole page. Another limitation was the absence of an option to use a color range to illustrate differences between counties. Because of it I had to calculate the gradations in Excel and then manually assign a color from the color scale to each step which worked, but wasn't perfect.
 
 
 ## Conclusion
