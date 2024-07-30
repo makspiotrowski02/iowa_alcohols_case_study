@@ -49,5 +49,5 @@ Welcome to the case study documentation for the Vodka Sales and Marketing Analys
 
 ## Conclusion
 
-The project had some problems, but i think it turned out great. It is simple,comprehensive and well balanced and complete from start to finish. If i would make it over again I would put more text on the presentation to explain visuals, but I was worried that it would bcome too cluttered.
+The project had some problems, but i think it turned out great. It is simple, comprehensive, well balanced and complete from start to finish. If i would make it over again I would put more text on the presentation to explain visuals, but I was worried that it would bcome too cluttered.
 
